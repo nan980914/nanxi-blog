@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://naxi.life/sitemap.xml
+Sitemap: https://nanxi.run/sitemap.xml
