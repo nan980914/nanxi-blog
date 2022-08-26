@@ -247,3 +247,9 @@ LanguageCode = "zh-CN"
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
+
+[publications]
+  # ... PREVIOUS CODE ... #
+
+  # Link the title of the publication to the publication
+  links_authors = false
